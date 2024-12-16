@@ -44,7 +44,7 @@ The Marine Biodiversity Tracking System is a comprehensive web application desig
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/gchkiran/marine-biodiversity-tracking-system
+   git clone https://github.com/gchkiran/Marine-Biodiversity-Tracking-System
    cd Marine-Biodiversity-Tracking-System
    ```
 
